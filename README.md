@@ -1,3 +1,5 @@
 ## Working With react hooks 
 Progress ->
-- Use State Hook
+- UseState Hook
+- UseEffect Hook
+- UseRef Hook
