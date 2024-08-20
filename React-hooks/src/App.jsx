@@ -7,8 +7,8 @@ function App() {
     //Just remove the comments to see the functioning of each hook on browser
   <>
   {/* <UseStateHook/>  */}
-  {/* <UseEffectHook/> */}
-  <UseRefHook/>
+  <UseEffectHook/>
+  {/* <UseRefHook/> */}
   </>
   )
 }
