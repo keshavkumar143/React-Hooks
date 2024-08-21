@@ -4,6 +4,9 @@ import UseEffectHook from './Hooks/UseEffectHook';
 import UseRefHook from './Hooks/UseRefHook';
 import { BioProvider } from './Hooks/ContextApi/UseContextHook';
 import Home from './Hooks/ContextApi/Home';
+import UseMemoHook from './Hooks/UseMemoHook';
+import UseReducerHook from './Hooks/UseReducerHook';
+
 function App() {
   return (
     //Just remove the comments to see the functioning of each hook on browser
@@ -20,6 +23,10 @@ function App() {
   {/* <BioProvider> 
     <Home/>
   </BioProvider> */}
+
+  {/* <UseMemoHook/> */}
+
+  <UseReducerHook/>
     </>
   )
 }
