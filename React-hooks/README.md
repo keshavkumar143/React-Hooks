@@ -10,4 +10,8 @@ Currently, two official plugins are available:
 
 Working With react hooks ->
 Progress ->
-1. Use State Hook
+1. useState Hook
+2. useEffect Hook
+3. useRef Hook
+4. useReducer Hook
+5. useMemo Hook (in progress)
